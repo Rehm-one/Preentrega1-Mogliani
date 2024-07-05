@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap');
+:root{ 
+    --nav-color:#ab1822;
+    --font-nav: 'Orbitron', sans-serif;
+  }
+.Carrito{ 
+    width: 150px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: end;
+    margin-left: 50px;
+    font-family: var(--font-nav);
+    cursor: pointer;
+
+}
